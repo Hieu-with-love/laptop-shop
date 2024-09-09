@@ -12,7 +12,6 @@ import java.time.LocalDate;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 public class TrackingDate {
     private LocalDate createdAt;
 
