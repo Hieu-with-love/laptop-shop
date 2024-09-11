@@ -32,11 +32,10 @@
             "styles": [
               "src/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "assets/css/font-awesome.min.css",
-              "assets/css/nouislider.min.css",
-              "assets/css/slick-theme.css",
-              "assets/css/slick.css",
-              "assets/css/style.css"
+              "assets/user/css/font-awesome.min.css",
+              "assets/user/css/nouislider.min.css",
+              "assets/user/css/slick.css",
+              "assets/user/css/style.css"
             ],
             "scripts": []
           },
@@ -101,11 +100,10 @@
             "styles": [
               "src/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "assets/css/font-awesome.min.css",
-              "assets/css/nouislider.min.css",
-              "assets/css/slick-theme.css",
-              "assets/css/slick.css",
-              "assets/css/style.css"
+              "assets/user/css/font-awesome.min.css",
+              "assets/user/css/nouislider.min.css",
+              "assets/user/css/slick.css",
+              "assets/user/css/style.css"
             ],
             "scripts": []
           }
